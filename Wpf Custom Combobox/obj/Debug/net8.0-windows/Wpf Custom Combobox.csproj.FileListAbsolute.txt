@@ -1,0 +1,23 @@
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\obj\Debug\net8.0-windows\AutoCompleteBox.g.cs
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\obj\Debug\net8.0-windows\App.g.cs
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\obj\Debug\net8.0-windows\Wpf Custom Combobox_MarkupCompile.cache
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\obj\Debug\net8.0-windows\Wpf Custom Combobox_MarkupCompile.lref
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\bin\Debug\net8.0-windows\Wpf Custom Combobox.exe
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\bin\Debug\net8.0-windows\Wpf Custom Combobox.deps.json
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\bin\Debug\net8.0-windows\Wpf Custom Combobox.runtimeconfig.json
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\bin\Debug\net8.0-windows\Wpf Custom Combobox.dll
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\bin\Debug\net8.0-windows\Wpf Custom Combobox.pdb
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\obj\Debug\net8.0-windows\AutoCompleteBox.baml
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\obj\Debug\net8.0-windows\MainWindow.baml
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\obj\Debug\net8.0-windows\Wpf Custom Combobox.g.resources
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\obj\Debug\net8.0-windows\Wpf Custom Combobox.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\obj\Debug\net8.0-windows\Wpf Custom Combobox.AssemblyInfoInputs.cache
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\obj\Debug\net8.0-windows\Wpf Custom Combobox.AssemblyInfo.cs
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\obj\Debug\net8.0-windows\Wpf Custom Combobox.csproj.CoreCompileInputs.cache
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\obj\Debug\net8.0-windows\Wpf Custom Combobox.dll
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\obj\Debug\net8.0-windows\refint\Wpf Custom Combobox.dll
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\obj\Debug\net8.0-windows\Wpf Custom Combobox.pdb
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\obj\Debug\net8.0-windows\Wpf Custom Combobox.genruntimeconfig.cache
+D:\repos\Wpf Custom Combobox\Wpf Custom Combobox\obj\Debug\net8.0-windows\ref\Wpf Custom Combobox.dll
